@@ -1,1 +1,1 @@
-# odysset-research-lab.github.io
+# odyssey-research-lab.github.io
